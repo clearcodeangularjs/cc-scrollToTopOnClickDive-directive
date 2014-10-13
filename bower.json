@@ -4,6 +4,7 @@
   "authors": [
   "ClearCode (http://clearcode.cc)"
 ],
+"homepage":"http://plnkr.co/edit/Sv4TWTvepjEChodBuNFY?p=preview",
   "version": "1.0.0",
   "main": "popovertemplate.js",
   "ignore": [

@@ -1,5 +1,5 @@
 {
-	"name": "popover",
+	"name": "cc-scrollToTopOnClickDive-directive",
 	"description": "Creates bootstrap popover with template with controller",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
@@ -15,9 +15,7 @@
 	],
 	"dependencies": {
 		"angular": "~1.0.6",
-		"jquery": "~1.10.2",
-		"sass-bootstrap": "~3.0.2",
-		"adhesive-utils": "~1.0.0"
+		"jquery": "~1.10.2"
 	},
 	"devDependencies": {
 		"grunt": "^0.4.1",

@@ -6,7 +6,7 @@
 	],
 	"homepage": "http://plnkr.co/edit/Sv4TWTvepjEChodBuNFY?p=preview",
 	"version": "1.0.0",
-	"main": "popovertemplate.js",
+	"main": "ScrollToTopOnClickDirective.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",

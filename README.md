@@ -5,7 +5,7 @@ Directive that adds animated scroll to top on click.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-scrollToTopOnClickDive-directive --save ```
 
 
 Usage
